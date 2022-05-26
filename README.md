@@ -15,3 +15,4 @@ Three data files are included in the folder: chicago.csv, new_york_city.csv, and
 ### Credits
 Some code was based on resources provided at:
 stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com
+atlassian.com helped with merge commit conflicts
