@@ -1,4 +1,5 @@
 #Bikeshare project
+"""This script gives the user access to bikeshare data from three cities, which can be sorted and returned with high-level stats and raw data."""
 
 import time
 import pandas as pd
