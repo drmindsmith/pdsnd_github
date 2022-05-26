@@ -16,7 +16,12 @@ Three data files are included in the folder: chicago.csv, new_york_city.csv, and
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Credits
+||||||| parent of d017952 (fix: readme for merge error in master)
+=======
+### Credits
+>>>>>>> d017952 (fix: readme for merge error in master)
 ||||||| parent of d017952 (fix: readme for merge error in master)
 =======
 ### Credits
@@ -26,6 +31,7 @@ stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com
 <<<<<<< HEAD
 <<<<<<< HEAD
 atlassian.com helped with merge commit conflicts
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 ###Branching
@@ -70,3 +76,12 @@ stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com
 =======
 atlassian.com helped with merge commit conflicts
 >>>>>>> 4f87979 (fix: updates to repair merge conflict)
+||||||| parent of d017952 (fix: readme for merge error in master)
+=======
+
+###Branching
+Added documentation branch
+
+###Updated script docstring
+For new section on five lines at a time.
+>>>>>>> d017952 (fix: readme for merge error in master)
