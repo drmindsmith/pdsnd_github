@@ -20,4 +20,7 @@ I watched a (terrible) YouTube video on Pandas, to figure out how can I find the
 So, beyond a litany of searches, I basically did the whole thing without any real ‘help’. Although, I needed a lot of ‘help’ in the manner of “damnit, what did I do wrong and why is that error happening?”
 
 ###Branching
-Added documentation branch 
+Added documentation branch
+
+###Updated script docstring
+For new section on five lines at a time.
