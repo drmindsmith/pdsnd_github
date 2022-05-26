@@ -1,17 +1,20 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
-
+File created on 5/26/22
+Bikeshare project completed on 5/25/22
 ### Project Title
-Replace the Project Title
+bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+This program parses data from three cities' bikeshare programs, and provides updates the user on both common responses and raw data.
 
 ### Files used
-Include the files used
+Three data files are included in the folder: chicago.csv, new_york_city.csv, and washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I had to look up how to use a few functions correctly – my test in the practice couldn’t make MODE work, so I faked it by coding for mode. In my project (after seeing the practice solution) I needed to use the resources at stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com, and a few other sites.
 
+I watched a (terrible) YouTube video on Pandas, to figure out how can I find the most frequent two-column combination in a dataframe I order to get the modal combination of start/stop stations
+
+So, beyond a litany of searches, I basically did the whole thing without any real ‘help’. Although, I needed a lot of ‘help’ in the manner of “damnit, what did I do wrong and why is that error happening?”
