@@ -180,6 +180,7 @@ def user_stats(df):
     print('-'*40)
 
 def display_five(df):
+    """Gives users the option to display five lines of raw data at  time"""
     start_loc = 0
     i = input("\nWould you like to see five lines of raw data? Enter yes or no: ")
     i = i.lower()
