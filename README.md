@@ -13,8 +13,5 @@ This program parses data from three cities' bikeshare programs, and provides upd
 Three data files are included in the folder: chicago.csv, new_york_city.csv, and washington.csv
 
 ### Credits
-I had to look up how to use a few functions correctly – my test in the practice couldn’t make MODE work, so I faked it by coding for mode. In my project (after seeing the practice solution) I needed to use the resources at stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com, and a few other sites.
-
-I watched a (terrible) YouTube video on Pandas, to figure out how can I find the most frequent two-column combination in a dataframe I order to get the modal combination of start/stop stations
-
-So, beyond a litany of searches, I basically did the whole thing without any real ‘help’. Although, I needed a lot of ‘help’ in the manner of “damnit, what did I do wrong and why is that error happening?”
+Some code was based on resources provided at:
+stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com
