@@ -13,6 +13,13 @@ This program parses data from three cities' bikeshare programs, and provides upd
 Three data files are included in the folder: chicago.csv, new_york_city.csv, and washington.csv
 
 ### Credits
+### Credits
 Some code was based on resources provided at:
 stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com
 atlassian.com helped with merge commit conflicts
+
+###Branching
+Added documentation branch
+
+###Updated script docstring
+For new section on five lines at a time.
