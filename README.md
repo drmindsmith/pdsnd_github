@@ -18,3 +18,6 @@ I had to look up how to use a few functions correctly – my test in the practic
 I watched a (terrible) YouTube video on Pandas, to figure out how can I find the most frequent two-column combination in a dataframe I order to get the modal combination of start/stop stations
 
 So, beyond a litany of searches, I basically did the whole thing without any real ‘help’. Although, I needed a lot of ‘help’ in the manner of “damnit, what did I do wrong and why is that error happening?”
+
+###Branching
+Added documentation branch 
