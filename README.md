@@ -24,6 +24,7 @@ Three data files are included in the folder: chicago.csv, new_york_city.csv, and
 Some code was based on resources provided at:
 stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com
 <<<<<<< HEAD
+<<<<<<< HEAD
 atlassian.com helped with merge commit conflicts
 <<<<<<< HEAD
 
@@ -65,3 +66,7 @@ So, beyond a litany of searches, I basically did the whole thing without any rea
 Some code was based on resources provided at:
 stackoverflow, pandas.pydata.org, geeksforgeeks, w3schools.com
 >>>>>>> d8dd804 (docs: trimmed credits)
+||||||| parent of 4f87979 (fix: updates to repair merge conflict)
+=======
+atlassian.com helped with merge commit conflicts
+>>>>>>> 4f87979 (fix: updates to repair merge conflict)
